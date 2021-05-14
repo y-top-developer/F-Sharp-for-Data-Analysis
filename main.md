@@ -15,13 +15,7 @@ marp: true
 
 # F# или Python? [@fsharp_chat](https://t.me/fsharp_chat)
 
-![](https://lh3.googleusercontent.com/edj1uo-14BnktZX_aaRn5-FxXFv-75m4NnkBy26cLYqp0KnviuM2X-mleEvWTRb16njwXcqxaanVo43HRpNHcSg1fH8nouN3IAvvh6lrnwOw7XjC6jJjfwluaS_1SI5lwiFtJVASg0g)
-
-![img](https://lh3.googleusercontent.com/BgGS_IhoEbV_KPkd3uOtyLKHEu4qr9b4EVFHgOh2vtgSJz0GZvZ5CDy8He1ikPg-NEK_ZPKzIGndg-MDE7EFOZHqO4TI14uIkiILIU7fhg5r0hVtFI-E0cK2DOBfQ0vpGomRvklhfs8)
-
-![img](https://lh3.googleusercontent.com/zXYatSfnlQUFyqIZhm8qWuPaYW59VnR0Oj4IGrjrrkZNaoudZ4k_t0bhZqF-hEKQUkDNa3HYClUH5wpLJBr4qy3KuLC51qFBeTKOnl1HnNaiteD3U4gIjQICYGgFD2Rwx9S0mf5cZrg)
-
-![image-20210514052350519](images\image-20210514052350519.png)
+![image-20210514182448713](images\image-20210514182448713.png)
 
 ---
 

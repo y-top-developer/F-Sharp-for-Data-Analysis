@@ -15,7 +15,7 @@ marp: true
 
 # F# или Python? [@fsharp_chat](https://t.me/fsharp_chat)
 
-![image-20210514182448713](images\image-20210514182448713.png)
+![image-20210514182448713](images/image-20210514182448713.png)
 
 ---
 
@@ -31,9 +31,9 @@ marp: true
 
 [Binder](https://mybinder.org/v2/gh/dotnet/interactive/main?urlpath=lab)
 
-![image-20210514055153166](images\image-20210514055153166.png)
+![image-20210514055153166](images/image-20210514055153166.png)
 
-![image-20210514055251714](images\image-20210514055251714.png)
+![image-20210514055251714](images/image-20210514055251714.png)
 
 ---
 
@@ -46,7 +46,7 @@ marp: true
 > jupyter lab
 ```
 
-![image-20210514053148947](images\image-20210514053148947.png)
+![image-20210514053148947](images/image-20210514053148947.png)
 
 [.NET Core with Jupyter Notebooks | devblogs.microsoft](https://devblogs.microsoft.com/dotnet/net-core-with-juypter-notebooks-is-here-preview-1/)
 
@@ -61,23 +61,23 @@ type Person =
 
 Стало:
 
-![image-20210514064128489](images\image-20210514064128489.png)
+![image-20210514064128489](images/image-20210514064128489.png)
 
 ---
 
 # Type Providers для CSV
 
-![image-20210514072154404](images\image-20210514072154404.png)
+![image-20210514072154404](images/image-20210514072154404.png)
 
-![image-20210514072608718](images\image-20210514072608718.png)
+![image-20210514072608718](images/image-20210514072608718.png)
 
 ---
 
 # Работа Type Providers с сетью
 
-![image-20210514064417938](images\image-20210514064417938.png)
+![image-20210514064417938](images/image-20210514064417938.png)
 
-![image-20210514064927402](images\image-20210514064927402.png)
+![image-20210514064927402](images/image-20210514064927402.png)
 
 ---
 
@@ -105,11 +105,11 @@ geoIp.CountryName
 
 2. 
 
-![image-20210514132855321](images\image-20210514132855321.png)
+![image-20210514132855321](images/image-20210514132855321.png)
 
 3. 
 
-![image-20210514134204360](images\image-20210514134204360.png)
+![image-20210514134204360](images/image-20210514134204360.png)
 
 ---
 
@@ -150,15 +150,15 @@ BookTypes.GetSample()
 
 # Применение Type Providers для смены формата
 
-![image-20210514152840329](images\image-20210514152840329.png)
+![image-20210514152840329](images/image-20210514152840329.png)
 
-![image-20210514152859093](images\image-20210514152859093.png)
+![image-20210514152859093](images/image-20210514152859093.png)
 
 ---
 
 # Визуализация с [XPlot.Plotly](https://fslab.org/XPlot//chart/plotly-bar-charts.html)
 
-![image-20210514081011416](images\image-20210514081011416.png)
+![image-20210514081011416](images/image-20210514081011416.png)
 
 ---
 
@@ -166,21 +166,21 @@ BookTypes.GetSample()
 
 |                                                         |                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| ![image-20210514081658968](images\image-20210514081658968.png) | ![image-20210514084037214](images\image-20210514084037214.png) |
-| ![image-20210514082302804](images\image-20210514082302804.png) | ![image-20210514082549141](images\image-20210514082549141.png) |
-| ![image-20210514082801286](images\image-20210514082801286.png) | ![image-20210514083233278](images\image-20210514083233278.png) |
+| ![image-20210514081658968](images/image-20210514081658968.png) | ![image-20210514084037214](images/image-20210514084037214.png) |
+| ![image-20210514082302804](images/image-20210514082302804.png) | ![image-20210514082549141](images/image-20210514082549141.png) |
+| ![image-20210514082801286](images/image-20210514082801286.png) | ![image-20210514083233278](images/image-20210514083233278.png) |
 
 ---
 
 # Анализ данных
 
-![image-20210514161215289](images\image-20210514161215289.png)
+![image-20210514161215289](images/image-20210514161215289.png)
 
 ---
 
 # Анализ данных 
 
-![image-20210514165021916](images\image-20210514165021916.png)
+![image-20210514165021916](images/image-20210514165021916.png)
 
 ---
 
